@@ -1,0 +1,5 @@
+Make a weather station:
+-use python and access the openweathermap API
+-connect remotely to the PI and display python program on the PI with DISPLAY=:0.0 then the command
+-look at this tutorial: https://www.dataquest.io/blog/python-api-tutorial/
+-here is a tkinter tutorial: https://www.python-course.eu/tkinter_labels.php
